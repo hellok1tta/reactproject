@@ -43,7 +43,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    https://github.com/hellok1tta/reactproject.git
+    git clone https://github.com/hellok1tta/reactproject.git
     ```
 
 2.  **Перейдите в директорию проекта:**
